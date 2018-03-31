@@ -1,5 +1,5 @@
 # POuL_Badge
-Preliminar work for a ESP-32 based badge for the POuL association (https://www.poul.org/ our website)
+Preliminar work for a ESP-32 based badge for the POuL association.
 
 This is a ESP32 based board, the code will be written using the ESP-IDF schematics and it will also be released under GNU3 License.
 
